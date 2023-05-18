@@ -43,6 +43,6 @@ Eating hella food
 
 ## 📈 Stats 
 <!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
-![](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
+![](https://github-readme-stats.vercel.app/api?username=CodyAireyE&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
 
-<a href = 'https://www.linkedin.com/in/YOUR-USERNAME-HERE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/cody-airey-501189277'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
