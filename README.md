@@ -1,16 +1,18 @@
-### Hi there 👋
+Hello!
+I'm Cody
+🌱 About me
+Currently studying computer science & information science at the University of Otago. My interests....
 
-<!--
-**CodyAirey/CodyAirey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Goals
+To earn software engineer dollars 🫡 Eating hella food
 
-Here are some ideas to get you started:
+🧑‍💻 Skills
+Java C++ Python React HTML5 CSS3 JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AWS Git GitHub Google Visual Studio Code Linux
+
+🏆 Side projects
+X
+Y
+Z
+📈 Stats
