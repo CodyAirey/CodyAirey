@@ -6,9 +6,7 @@
   https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
 -->
 
-# Hello!
-
-### I'm Cody
+# Hello, I'm Cody Airey
 
 ## 🌱 About me
 Currently studying computer science & information science at the University of Otago. My intrests include: Backend Development, Machine Learning, Natural Language Processing, Cloud Computing, and Networks.
@@ -40,7 +38,7 @@ To learn more about development as a team, and extend my knowledge on Machine Le
 <!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=CodyAirey&count_private=true&show_icons=true&theme=github_dark&hide=contribs) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyAirey)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyAirey) -->
 
 
 <a href = 'https://www.linkedin.com/in/cody-airey-501189277'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
