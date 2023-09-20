@@ -40,5 +40,6 @@ To learn more about development as a team, and extend my knowledge on Machine Le
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyAirey) -->
 
+---
 
 <a href = 'https://www.linkedin.com/in/cody-airey-501189277'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
