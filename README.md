@@ -1,45 +1,101 @@
-<!-- Comments
-- Markdown cheatsheet
-  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+# Cody Airey
 
-- Bunch of README templates, but don't go too crazy 
-  https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
--->
+Software developer with a background in NLP research and machine learning.  
+Recently completed an M.Sc. in Computer Science at the University of Otago, focused on transformer models, explainability, and cybersecurity.
 
-# Hello, I'm Cody Airey
-
-## 🌱 About me
-Currently studying computer science & information science at the University of Otago. My intrests include: Backend Development, Machine Learning, Natural Language Processing, Cloud Computing, and Networks.
-
-
-## 🎓 Goals 
-To learn more about development as a team, and extend my knowledge on Machine Learning, and backend development.
-
-## 🧑‍💻 Skills
-
-<!-- You can find a bunch of badges here https://github.com/Ileriayo/markdown-badges#-frameworks-platforms-and-libraries -->
-    
-   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🏆 My projects
-- Summary-Comparison: Using NLP to compare and contrast open source books from the "booksum" dataset, seeing if better agreement scores can be gained from improving the data. Additionally, analyzing different summarization methods on large chunks of text and testing their similarity against the "booksum" summaries. This was performed as a research project at the Univeristy.
-- Diglot Reader: A C++ application for opening & reading text files, replacing English words with Te Reo Maori, performing the substitutions with a mix of ideas, using the 'diglot weave' method and 'space repitition' to help users slowly and effectively increase their maori vocabulary, using English & Maori word freqency data alongside user profiling to specalised experience.
-- AI chat-app: A VM provisioning repository, where a DB, AI API, and Webapp are all spun-up with one command, allowing you to talk nonsense with your favourite hugging-face conversational AI responders.
-
-<!-- ## 📈 Stats --> 
-<!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=CodyAirey&count_private=true&show_icons=true&theme=github_dark&hide=contribs) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyAirey) -->
+I tend to work on practical systems where research meets implementation: model tooling, data pipelines, backend systems, and things that actually run.
 
 ---
 
-<a href = 'https://www.linkedin.com/in/cody-airey-501189277'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+## About
+
+I’ve worked across research, teaching, and industry roles:
+
+- NLP and machine learning research (transformer models, interpretability, evaluation)
+- Software development in agile teams
+- Teaching and technical mentoring
+- Systems and infrastructure support
+
+My MSc thesis explored automated CVSS scoring from text and focused heavily on model interpretability and human alignment.
+
+---
+
+## Main Projects
+
+### MastersThesis
+Research and tooling built around automated CVSS prediction using transformer-based NLP models.
+
+Focus areas:
+- Transformer model training and evaluation
+- Interpretability methods (SHAP, attention, attribution analysis)
+- Token-level analysis tooling
+- Practitioner study comparing human judgement to model behaviour
+
+This project is less about flashy accuracy numbers and more about understanding why models behave the way they do.
+
+---
+
+### SplendorAI
+AI agent development around the board game Splendor.
+
+Built to experiment with:
+- decision making strategies
+- reinforcement / search-based approaches
+- clean separation between game logic and AI behaviour
+
+A practical playground for testing reasoning approaches outside academic datasets.
+
+---
+
+### AI Chat App
+Infrastructure-focused project designed to spin up a working AI chat stack quickly.
+
+Includes:
+- VM provisioning
+- database setup
+- web application
+- AI API integration
+
+The goal is reproducibility and minimal setup friction rather than novelty.
+
+---
+
+## Skills
+
+Languages:
+- Python
+- Java
+- C
+- JavaScript
+- Go
+- Bash
+- SQL
+
+Technical:
+- Machine Learning / NLP
+- Transformer models
+- Backend development
+- Linux environments
+- Research tooling and data pipelines
+- Agile workflows
+
+---
+
+## Background
+
+**M.Sc. Computer Science**  
+University of Otago  
+Thesis: *Automated CVSS Scoring from Text*
+
+Previous experience includes:
+- Software development internship (Angular, agile delivery)
+- Research assistant (NLP and HPC workloads)
+- Tutor / demonstrator for algorithms, architecture, and problem solving
+- IT support and infrastructure administration
+
+---
+
+## Links
+
+- GitHub: https://github.com/CodyAirey  
+- LinkedIn: https://www.linkedin.com/in/cody-airey-CA1337
