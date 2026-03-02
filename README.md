@@ -1,28 +1,29 @@
 # Cody Airey
 
-Software developer with a background in NLP research and machine learning. Recently completed an M.Sc. in Computer Science at the University of Otago, focused on transformer models, explainability, and cybersecurity.
+Software developer with a background in NLP research and machine learning. Recently finished an M.Sc. in Computer Science at the University of Otago, focused on transformer models, explainability, and cybersecurity.
 
-I build practical systems where research meets implementation: model tooling, data pipelines, backend systems, and infrastructure that actually runs.
+I build practical systems where research meets implementation: model tooling, backend systems, data pipelines, and infrastructure that actually runs.
 
 ---
 
 ## About
 
-Experience across research, teaching, and industry, including NLP research, software development, mentoring, and systems support.  
-My MSc thesis explored automated CVSS scoring from text with a strong focus on interpretability and human alignment.
+Experience across research, teaching, and industry, spanning NLP research, software development, and systems support.  
+
+My MSc thesis explored automated CVSS scoring from text with a focus on interpretability and understanding model behaviour rather than just chasing accuracy.
 
 ---
 
 ## Projects
 
-**MastersThesis**  
-Transformer-based NLP research for automated CVSS prediction, including interpretability analysis, token-level tooling, and practitioner validation studies.
+- [CVSS_Interpretability](https://github.com/CodyAirey/CVSS_Interpretability)  
+  Transformer-based NLP research for CVSS prediction, model explainability, and practitioner validation.
 
-**SplendorAI**  
-AI agents for the board game Splendor, exploring decision-making strategies and clean separation between game logic and agent behaviour.
+- [SplendorAI](https://github.com/CodyAirey/SplendorAI)  
+  AI agents for the board game Splendor, exploring decision-making strategies and clean game/AI separation.
 
-**AI Chat App**  
-Infrastructure-driven chat application stack with VM provisioning, database setup, web app, and AI API integration designed for fast reproducibility.
+- [AI-ChatApp](https://github.com/CodyAirey/AI-ChatApp)  
+  Infrastructure-focused AI chat stack with provisioning, database, web app, and API integration.
 
 ---
 
