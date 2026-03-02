@@ -81,21 +81,4 @@ Technical:
 
 ---
 
-## Background
-
-**M.Sc. Computer Science**  
-University of Otago  
-Thesis: *Automated CVSS Scoring from Text*
-
-Previous experience includes:
-- Software development internship (Angular, agile delivery)
-- Research assistant (NLP and HPC workloads)
-- Tutor / demonstrator for algorithms, architecture, and problem solving
-- IT support and infrastructure administration
-
----
-
-## Links
-
-- GitHub: https://github.com/CodyAirey  
 - LinkedIn: https://www.linkedin.com/in/cody-airey-CA1337
